@@ -1,0 +1,20 @@
+h1 {
+  padding-top: 5vh;
+  padding-bottom: 5vh;
+}
+
+input {
+  margin-bottom: 1.5vh;
+}
+/* .profile {
+} */
+.img-padding {
+  margin: 10%;
+  padding: 10%;
+  max-width: 90%;
+  border: black 2px solid;
+}
+img {
+  max-width: 100%;
+  max-height: 100%;
+}
